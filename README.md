@@ -1,0 +1,2 @@
+# Typescript módulo AMD exemplo
+
